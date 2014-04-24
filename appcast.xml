@@ -12,11 +12,11 @@
 	    </sparkle:releaseNotesLink>
 	    <pubDate>Mon, 24 Apr 2014 11:25:00 -0000</pubDate>
 	    <enclosure
-		    url="https://github.com/HarvardTechHub/LittleMessenger/blob/master/releases/v2.3.1/LittleMessenger_v1.2.zip?raw=true"
+		    url="https://github.com/HarvardTechHub/LittleMessenger/blob/master/releases/v1.2/LittleMessenger_v1.2.zip?raw=true"
 		    sparkle:version="1.2"
 		    type="application/octet-stream"
-		    length="12236676"
-		    sparkle:dsaSignature="MCwCFH7cL7RkZXVp30ELnkrGZtmyFdwLAhRPtJljvncQwSdevY54CyqpwMdsBw=="
+		    length="6393541"
+		    sparkle:dsaSignature="MC0CFQCJh8MOYgnu3p7rKLM/WgwdJXowhAIUZzohCskO0FlmnNFjh6+QF+3q34Y="
 	    />
     </item>
   </channel>
