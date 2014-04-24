@@ -1,1 +1,23 @@
-temp
+<?xml version='1.0' encoding='utf-8'?>
+<rss version='2.0' xmlns:sparkle='http://www.andymatuschak.org/xml-namespaces/sparkle' xmlns:dc='http://purl.org/dc/elements/1.1/'>
+  <channel>
+    <title>LittleMessenger</title>
+    <link>https://raw.github.com/HarvardTechHub/LittleMessenger/master/appcast.xml</link>
+    <description>Most recent changes with links to updates.</description>
+    <language>en</language>      
+    <item>
+	    <title>LittleMessenger Version 1.2</title>
+	    <sparkle:releaseNotesLink>
+	      https://raw.github.com/HarvardTechHub/LittleMessenger/master/releases/v1.2/releaseNotes.html
+	    </sparkle:releaseNotesLink>
+	    <pubDate>Mon, 24 Apr 2014 11:25:00 -0000</pubDate>
+	    <enclosure
+		    url="https://github.com/HarvardTechHub/LittleMessenger/blob/master/releases/v2.3.1/LittleMessenger_v1.2.zip?raw=true"
+		    sparkle:version="1.2"
+		    type="application/octet-stream"
+		    length="12236676"
+		    sparkle:dsaSignature="MCwCFH7cL7RkZXVp30ELnkrGZtmyFdwLAhRPtJljvncQwSdevY54CyqpwMdsBw=="
+	    />
+    </item>
+  </channel>
+</rss>
